@@ -1,0 +1,74 @@
+body {
+font-family: 'Amatic SC', cursive;
+    color: floralwhite;
+     background-color:#B2BB5B;
+}
+#fundo {
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 10px;  
+}
+.margem {
+    padding: 13px;
+    color: white;
+}
+
+.fundo {
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.parte1 {
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.parte2 {
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.parte3 {
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.parte4 {
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.avaliacao {
+    border: 1px solid white;
+    border-radius: 30px;
+}
+
+img {
+    width: 640px;
+    height: 360px;
+}
+#demo {
+    height: 440px;
+    width: 860px;
+    border-radius: 20px;
+}
+.imagenspa {
+    height: 400px;
+    width: 1000px;
+    border-radius: 20px;
+}
+.MPosicao {
+    height: 900px;
+    width: 1000px;
+    border-radius: 20px;
+}
+.histograma {
+    height: 700px;
+    width: 900px;
+    border-radius: 20px;
+}
+.exem2 {
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+}
+.foto {
+    height: 188px;
+    width: 564px;
+    border-radius: 20px;
+}
